@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Kawaii Kaiwai",
+  "base_artist": "PiKi",
+  "createdAt": "2026-01-07T19:55:47.334779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kawaii Kaiwai",
+      "artist": "Piki",
+      "has_synced": true,
+      "path": "select/01_Kawaii_Kaiwai_Piki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kawaii Kaiwai",
+      "artist": "PiKi",
+      "has_synced": false,
+      "path": "select/pl_01_Kawaii_Kaiwai_PiKi.txt"
+    }
+  ]
+}
